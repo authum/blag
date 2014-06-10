@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "earth, tea, thorium"
+description: "Catching up"
+category: "jekyll update" 
+tags: [energy, programming, meta, job]
+---
+I still can't get over the idea that my true calling is work in the nuclear field, with the promise of unlimited cheap energy. Being as I am a total news junkie, I began reading up about finance, capital, peak oil, and the rest starting around 2008, and have been distracted many many hours wringing my hands about the future. In the end, I feel like what the collapse people proclaim (like the recently deceased Michael Ruppert, RIP) is a bit pessimistic, and that their prognoses not at all a given.  I do agree on the fundamental analysis that we as a species will not be able to survive on our fossil fuel reserves forever, and that the return to a life without them will spell disaster for the billions of poor people around the world who might otherwise benefit from the security and material well-being cheap energy affords: potable water, lowered pollution, and a higher material standard of wealth seem to be the best ways I can think of to combat climate change and population expansion in the coming century, assuming that the energy that predicates these developments can be found and utlized in massive enough quantities (I still have my doubts as to whether renewables are up to the task), and  provided that we leverage these sources in a way that is beneficial to our society as a whole.
+
+As a backdrop to all of this, the failure of the nation state to serve the needs of the majority of its populace, and the continuing congolmeration of power by a select few multinational corporations is still jarring.  Jingoist voices and convenient fools are played off of one another along traditional divisions, whilst this discord masks the broader socioeconomic problems. Meanwhile, the words of austerity, crisis, and taper add to the rising din, as savers and the middle class are under attack in the United States and abroad.  We are facing the rollback and failure of hard-fought progressive measures on labor and health, while neoliberalism makes the working class more vulnerable to corporate 'streamlining'. 
+
+<!--At the same time, the predictions of the rise of machines, and further automation in the workplace are other dark clouds on the horizion, provided that the perspective of choice is that of the traditional job market. The time is nigh for Marx to be read again, as his critique on capital, long absent in the US, will probably prove to be more apt as employers increasingly become independant of their workers and are able to exert more control over them.  
+
+Anyway, I feel like I'm trying to qualify myself for a job that may be poorly renumerated, and possibly a bad move overall.  Even so, I've lacked the faith, courage, and gumption to go do something truly radica, so this is going to have to be it. I just hope that I'm able to give back a bit, or make the world a better place through my work. 
+-->

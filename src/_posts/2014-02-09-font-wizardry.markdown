@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Font Wizardry!"
+date:   2014-02-09 20:00:00
+categories: jekyll update
+---
+
+Back to the grindstone. Well, sort of. I've managed to get some purdy fonts up and running, still trying to feel out how I want the site to feel. For now, there are two, [Playfair Display](http://www.google.com/fonts/specimen/Playfair+Display), which makes up the headlines and [Raleway](https://www.theleagueofmoveabletype.com/raleway) for the content. Both are open-source webfonts, and the hosting is provided free of charge by Google. *[And](https://www.theleagueofmoveabletype.com/members/matt) [some](http://www.impallari.com/) [kickass](https://plus.google.com/+ClausEggersS%C3%B8rensen/about) [individuals!](http://www.rfuenzalida.com/)*  I am wrasslin' with Foundation at the moment to thin down the width of the display column for this paragraph content and just spent all evening fixing something I noticed that makes me suspect I have latent OCD: the links in blue to the individual blog posts on the home page weren't aligned, because "Feb" is just the tiniest bit longer than "Jan". There wasn't have a seperate column for the date, so any excess length was also shifting the titles and throwing off the spacing! Arrgh! Now I can't un-see it!  
+
+So off I go on my merry way, trying to encapsulate some of these newfangled "columns" into my loop of loops that automatically poulates the homepage with a list of different posts... fun. Especially when working with [slim](https://github.com/slim-template/slim) instead of good ol' HTML *Where my <> at?!*, which is particularly disorienting. I ended up resorting to having each list item create a pair of `<div>`'s in each entry that would hold the date and the post title respectively. Thing is, they are spaced much wider than the original list, so I had to go back and do funky stuff like remove the bullet points. Ahh, that's probably due to the fact that I incresased the line spacing on the settings.scss file so the text blocks in posts like these are more forgiving on the eyes. Hey, it's a hobby, ok!? At least I've got a test environment running, unlike [some people!](https://www.mtgox.com/) 
+
+I'm trying to decide whether I like the way that the two fonts combine, and this is where you come in. Do you prefer serif or sans-serif in the body for reading porpoises? Should I add Disqus or some other web-2.0 comment section? Discuss.

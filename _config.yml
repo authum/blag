@@ -1,0 +1,14 @@
+name: CNTMPLT
+markdown: redcarpet
+pygments: false
+
+# We are adding this below:
+source: ./src
+destination: ./build
+
+asset_pipeline:
+  bundle: true
+  compress: true
+  output_path: assets
+  display_path: nil
+  gzip: false

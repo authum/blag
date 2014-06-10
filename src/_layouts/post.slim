@@ -1,0 +1,12 @@
+---
+layout: default
+---
+h2
+  | {{ page.title }}
+p.meta
+  | {{ page.date | date_to_string }}
+  <!--doesn't affect width of page-->
+  .post.large-12.large-centered.columns 
+<!--This is the container for the article itself-->
+    article.large-8.large-centered.columns 
+      | {{ content }}
