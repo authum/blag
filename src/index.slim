@@ -4,15 +4,16 @@ layout: default
 .home
   .row
     .small-12.large-8.large-offset-2.columns
-      ul.posts.small-block-grid-2.medium-block-grid-3.large-block-grid-4
+      ul.posts.small-block-grid-2.medium-block-grid-3.large-block-grid-3
         | {% for post in site.posts %}
         li 
-          #articlelistitem
-            span
-              | {{ post.date | date_to_string }} &raquo;
-            a href="{{ post.url }}"
-              | {{ post.title }}
-          | {% endfor %}
+          a href="{{ post.url }}"
+            #articlelistitem
+              span
+                | {{ post.date | date_to_string }} &raquo;
+              p
+                | {{ post.title }}
+        | {% endfor %}
 /ul.small-block-grid-2.medium-block-grid-3.large-block-grid-4
   li
     img alt="Image1" src="{{ site.url }}/images/img1.png" 
