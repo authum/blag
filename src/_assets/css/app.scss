@@ -1,5 +1,15 @@
 @import "foundation";
 @import url(http://fonts.googleapis.com/css?family=Lato:100,300,100italic,300italic|Merriweather:400,400italic,700,700italic);
+#articlelistitem
+{
+  background-color: #FFF;
+  font-size:  20px;
+  font-family:  "Merriweather", "Trebuchet", Serif; 
+  font-weight:  400;
+  letter-spacing: .33em;
+  text-shadow: 2px 0px 0px #666;
+  
+}
 body
 {
   background-color: #666;
