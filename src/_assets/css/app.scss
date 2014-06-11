@@ -9,10 +9,30 @@
   font-weight:  400;
   letter-spacing: .33em;
   text-shadow: 2px 0px 0px #666;
+  word-wrap:normal;
    
 }
-article{
+#article{
   background-color: #999;
+  a:link, a:visited, a:hover, a:active 
+    {
+    font-size:  20px;
+    color: #111;
+    font-style: bold;
+    font-weight: 400;  
+    font-family: "Merriweather", "Trebuchet", Serif;
+    text-shadow: none;
+    }
+  a:hover{
+    text-decoration: underline;
+  }
+  a:active{
+    color:#FFF;
+  }
+  a:visited{
+    color:#666;
+  }
+  
 }
 
 body{
