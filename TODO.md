@@ -17,5 +17,5 @@ description: "Things to take care of"
   6.   The first line of posts on the homepage needs to get spaced out a bit. 
   7.   The bottom bar needs to be fleshed out. 
   8.   Homepage link hover decoration
-  
+  9.   Padding of first line of text in posts. 
       
