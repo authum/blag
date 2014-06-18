@@ -46,16 +46,25 @@ I remember having held, deep down, a sense of resignation, a sense of dread; Tha
 
 At a certain point along the way I found out about a book which mentioned the MSR breeder reactor, and the promise of next-generation fission energy to ensure the material security of our planet, and it was then that I turned away from my fear. 
 
-I want to be a part of something big, something important, whose impact will be lauded by future generations. I hope that my work improves the lote of the people all over the world, irrespective of their circumstances. I want to ensure the possibility of happy, productive lives not only in the future of those in my family and those around me, but also in the future of the families I will never meet - families locked out of possible advancement by present circumstances. I hope for an egalitarian world, a post carbon world, and I can only see this dream becoming a reality via the development of nuclear power. 
+I want to be a part of something big, something important, whose impact will be lauded by future generations. I hope that my work improves the lote of the people all over the world, irrespective of their circumstances. I want to ensure the possibility of happy, productive lives not only in the future of those in my family and those around me, but also in the future of the families I will never meet &mdash; families locked out of possible advancement by present circumstances. I hope for an egalitarian world, a post carbon world, and I can only see this dream becoming a reality via the development of nuclear power. 
 
-I feel that I must do what I can to make this happen, and the best way I can apply myself to these ends seems to be that I further educate myself in the technology to its very core, and work to bring it forth as the most safe, most abundant and revolutionary energy source I know it to be. 
+I feel that I must do what I can to make this happen, and the best way I can apply myself to these ends seems to be that I further educate myself in the technology to its very core, and work to bring it forth as the most safe, most abundant and revolutionary energy source I know it to be.  
+
+
+
+- - - 
 
 
 
 
 Works Cited
 
+"The Food Crises and Political Instability in North Africa and the Middle East." New England Complex Systems Institute. Web. 18 June 2014. <http://necsi.edu/research/social/foodcrises.html>.
 
-"The Future of Nuclear Power." The Massachusetts Institute of Technology (MIT). Web. 16 June 2014. <http://web.mit.edu/nuclearpower/>.
+"The Future of Nuclear Power." The Future of Nuclear Power. Web. 16 June 2014. <http://web.mit.edu/nuclearpower/>.
+
 "How Much Energy Does the World Need? -- Clarifying the 21st Century Energy and Climate Challenges." The Breakthrough Institute. Web. 18 June 2014. <http://thebreakthrough.org/index.php/voices/roger-pielke-jr/how-much-energy-does-the-world-need>.
+
+Karadsheh, Jomana. "The Tunisian Fruit Seller Who Kickstarted Arab Uprising." CNN. Cable News Network, 22 Mar. 2011. Web. 18 June 2014. <http://edition.cnn.com/2011/WORLD/meast/03/22/tunisia.bouazizi.arab.unrest/index.html?_s=PM:WORLD>.
+
 "U.S. Energy Information Administration - EIA - Independent Statistics and Analysis." U.S. Energy Information Administration (EIA). Web. 15 June 2014. <http://www.eia.gov/forecasts/ieo/world.cfm>.
