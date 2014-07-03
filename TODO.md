@@ -18,4 +18,6 @@ description: "Things to take care of"
   7.   The bottom bar needs to be fleshed out. 
   8.   Homepage link hover decoration
   9.   Padding of first line of text in posts. 
+  10.  Sticky Footer
+  
       

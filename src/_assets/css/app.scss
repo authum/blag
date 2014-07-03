@@ -52,8 +52,31 @@ body{
   font-family: 'Lato', sans-serif;
   font-weight:  300;
   letter-spacing:  2em;
-  
   }
+  * {
+	margin: 0;
+}
+html, body {
+	height: 100%;
+}
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -155px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+	clear: both;
+  height: 155px; /* .push must be the same height as .footer */
+}
+
+/*
+
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+
+*/
+  
   //This is messing up body articles. 
   a:link, a:visited, a:hover, a:active 
     {
