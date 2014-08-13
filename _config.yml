@@ -1,6 +1,6 @@
 name: CNTMPLT
 markdown: redcarpet
-pygments: false
+pygments: true
 
 # We are adding this below:
 source: ./src

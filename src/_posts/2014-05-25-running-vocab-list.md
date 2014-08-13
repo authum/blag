@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Running vocab list"
+title: "Vocabulary List"
 description: "Learn ye some words!"
-category: Vocabulary List
-tags: []
+category: "blog post"
+tags: [vocab]
 ---
 The following are vocabulary terms I've come across so far in various books. 
 

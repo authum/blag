@@ -2,7 +2,7 @@
 layout:     post
 title:      "earth, tea, thorium"
 description: "Catching up"
-category: "jekyll update" 
+category: "blog post" 
 tags: [energy, programming, meta, job]
 ---
 I still can't get over the idea that my true calling is work in the nuclear field, with the promise of unlimited cheap energy. Being as I am a total news junkie, I began reading up about finance, capital, peak oil, and the rest starting around 2008, and have been distracted many many hours wringing my hands about the future. In the end, I feel like what the collapse people proclaim (like the recently deceased Michael Ruppert, RIP) is a bit pessimistic, and that their prognoses not at all a given.  I do agree on the fundamental analysis that we as a species will not be able to survive on our fossil fuel reserves forever, and that the return to a life without them will spell disaster for the billions of poor people around the world who might otherwise benefit from the security and material well-being cheap energy affords: potable water, lowered pollution, and a higher material standard of wealth seem to be the best ways I can think of to combat climate change and population expansion in the coming century, assuming that the energy that predicates these developments can be found and utlized in massive enough quantities (I still have my doubts as to whether renewables are up to the task), and  provided that we leverage these sources in a way that is beneficial to our society as a whole.

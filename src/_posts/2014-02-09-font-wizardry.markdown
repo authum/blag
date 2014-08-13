@@ -2,7 +2,7 @@
 layout: post
 title:  "Font Wizardry!"
 date:   2014-02-09 20:00:00
-categories: jekyll update
+categories: "blog post"
 ---
 
 Back to the grindstone. Well, sort of. I've managed to get some purdy fonts up and running, still trying to feel out how I want the site to feel. For now, there are two, [Playfair Display](http://www.google.com/fonts/specimen/Playfair+Display), which makes up the headlines and [Raleway](https://www.theleagueofmoveabletype.com/raleway) for the content. Both are open-source webfonts, and the hosting is provided free of charge by Google. *[And](https://www.theleagueofmoveabletype.com/members/matt) [some](http://www.impallari.com/) [kickass](https://plus.google.com/+ClausEggersS%C3%B8rensen/about) [individuals!](http://www.rfuenzalida.com/)*  I am wrasslin' with Foundation at the moment to thin down the width of the display column for this paragraph content and just spent all evening fixing something I noticed that makes me suspect I have latent OCD: the links in blue to the individual blog posts on the home page weren't aligned, because "Feb" is just the tiniest bit longer than "Jan". There wasn't have a seperate column for the date, so any excess length was also shifting the titles and throwing off the spacing! Arrgh! Now I can't un-see it!  

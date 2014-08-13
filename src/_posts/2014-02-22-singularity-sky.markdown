@@ -2,7 +2,7 @@
 layout:		post
 title: 		"Singularity Sky"
 date:   	2014-02-22 14:00:00
-categories:	Jekyll update
+categories:	"blog post"
 ---
 
 I just finished up reading Charles Stross' _Singularity Sky_, which began with 

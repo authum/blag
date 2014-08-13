@@ -1,6 +1,9 @@
-@import "foundation";//I need to slim this down by only importing the modules I am using. 
+//@import "foundation/normalize.scss";
+@import "foundation/foundation.scss";
+//@import   "foundation/components/block-grid";//I need to slim this down by only importing the modules I am using. 
 
 @import url(http://fonts.googleapis.com/css?family=Lato:100,300,100italic,300italic|Merriweather:400,400italic,700,700italic);
+
 #articlelistitem
 {
   background-color: #FFF;
@@ -10,8 +13,8 @@
   letter-spacing: .33em;
   text-shadow: 2px 0px 0px #666;
   word-wrap:normal;
-   
 }
+
 #article{
   padding-top: 2em;
   padding-bottom: 4em;
@@ -37,6 +40,7 @@
   
 }
 
+
 body{
   background-color: #666;
   text-color:  #FFF;
@@ -44,7 +48,7 @@ body{
   h1, h2, h3, h4, h5, h6 {
   font-family:  "Merriweather", "Trebuchet", Serif;  
   }
-  
+}
   .header, .footer
   {
   font-style: italic;
@@ -53,32 +57,7 @@ body{
   font-weight:  300;
   letter-spacing:  2em;
   }
-  * {
-	margin: 0;
-}
-html, body {
-	height: 100%;
-}
-.wrapper {
-	min-height: 100%;
-	height: auto !important;
-	height: 100%;
-	margin: 0 auto -155px; /* the bottom margin is the negative value of the footer's height */
-}
-.footer, .push {
-	clear: both;
-  height: 155px; /* .push must be the same height as .footer */
-}
-
-/*
-
-Sticky Footer by Ryan Fait
-http://ryanfait.com/
-
-*/
-  
-  //This is messing up body articles. 
-  a:link, a:visited, a:hover, a:active 
+a:link, a:visited, a:hover, a:active 
     {
     font-size:  24px;
     color: #FFF;
@@ -87,12 +66,28 @@ http://ryanfait.com/
     font-family: "Lato" sans-serif;
     text-shadow: 6px 0px 0px #666;
     }
-  // We use this to control the maximum blocks and spacing 
-$block-grid-elements: 12;
-$block-grid-default-spacing: rem-calc(20);
-$align-block-grid-to-grid: false; //removes column gutter so edges of block grid align with grid
 
-// Enables media queries for block-grid classes. Set to false if writing semantic HTML.
-$block-grid-media-queries: true;
+/*The sticky footer by Ryan Fait. Hope this works. */
+* {
+	padding: 0;
+}
+html, body {
+	height: 100%;
+}
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	padding: 0 auto -55px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+	clear: both;
+  height: 55px; /* .push must be the same height as .footer */
 }
 
+/*
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+*/
+  
+  

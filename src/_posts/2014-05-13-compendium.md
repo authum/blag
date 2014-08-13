@@ -2,7 +2,7 @@
 layout: post
 title: "Compendium"
 description: "Stuff I've read and remembered."
-category: List
+category: "blog post"
 tags: [Spanish, Español, Literature]
 ---
   Here I feel it would be useful for me to begin to take stock of some of the works I have been reading, so as not to loose track of them. Additionally, if I am ever to reflect upon them, this would be a good place to keep an archive of reviews.  Over the long weekend I was able to finally finish reading Solaris, by Stanisaw Lem, in Spanish. Supposedly it's a terrible book in the earlier and widespread English version, having been passed through the clumsy hands of at least one translator as it passed from the original, to the French, to the English version. My guess is that at least the French version is linguistically close enough to the Spanish version that it may not have been that bad of a transition, had that been the route that my edition took. Regardless, I found myself enraptured by the piece.  In my case, it's taken roughly 2-3 false starts wherein I read about 20 or 30 pages and then let the loan go overdue, then return the book a few weeks late, wait the requisite period, and read the book about two weeks after I've checked it out for the second time.  It's worked well for me so far.

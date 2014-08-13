@@ -1,12 +1,14 @@
 doctype html
 html
   head
-    meta charset="UTF-8" /
+    meta charset="UTF-8" 
     | {% css_asset_tag global_css %}
       - /_assets/css/app.scss
     | {% endcss_asset_tag %}
     title
       | {{ page.title }}
+      
+    
   body
     .header
       .row
@@ -15,12 +17,12 @@ html
             a href="/"
               | {{ site.name }}
      
-    .row
-      .large-12.columns
-      | {{ content }}
+    .wrapper
+      .row
+        .large-12.columns
+        | {{ content }}
     .footer
-      #footer
-        .row
-          .large-12.columns.text-center
-            .contact
-              p never settle
+      .row
+        .large-12.columns.text-center
+          .contact
+            p never settle

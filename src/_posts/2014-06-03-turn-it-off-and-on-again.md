@@ -2,8 +2,8 @@
 layout: post
 title: "Turn it off, and on again"
 description: ""
-category: 
-tags: []
+category: "blog post"
+tags: [climate]
 ---
 So I managed to get the blog back, and how I did it was by killing the Heroku Apps. I had attempted to make one app point to another, and I'm pretty sure that created a conflict inside Heroku. I'm not patient enough to figure out how to rename my app correctly, so I just deleted it and uploaded all the content to the one I had my eye on. That was much easier. And we're back.	
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "It's Alive!"
 date:   2014-01-16 23:26:52
-categories: jekyll update
+categories: 'blog post'
 ---
 
 Well, we're off to a rolling start, thanks to one Jason Robert Fox, who has kindly put up one of the best tutorials I hae seen to get pretty much exactly what I was looking for out of a blog. That is, we have a development environment to change things around and see how they are affected in real time, we have a professional, rapid prototyping framework with adanced features that allow us to whip up sites quickly and change them in a significant way, avoiding much of the earlier drudgery, and we also have the good luck of a means to publish to the cloud for free, responsive web hosting. Also, the guys has a sweet motorcycle. Check [his site](www.neverstopbuilding.com/jekyll-slim-compass-blog) out, it's a cool place. 

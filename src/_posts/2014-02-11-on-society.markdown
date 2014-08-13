@@ -2,7 +2,7 @@
 layout:     post
 title:      "On Society"
 date:       2014-02-11 22:28:00
-categories: jekyll update
+categories: "blog post"
 ---
 
 I just ran across a passage that gave me a powerful __Aha!__ moment, which is this: 

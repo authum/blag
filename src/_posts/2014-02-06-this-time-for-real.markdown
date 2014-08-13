@@ -2,7 +2,7 @@
 layout: post
 title:  "This time, for real!"
 date:   2014-02-06 12:00:00
-categories: jekyll update
+categories: 'blog post'
 ---
 
 [I am invincible!](http://youtu.be/cKO0RrM7LvI)

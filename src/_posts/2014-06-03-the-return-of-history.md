@@ -2,8 +2,8 @@
 layout: post
 title: "The return of history"
 description: ""
-category: 
-tags: []
+category: "blog post"
+tags: [meta, nuclear]
 ---
 So I installed the Vim syntax highlighter for Markdown posts! Lordy be! I'm now able to see mostly what my text looks like. The Vim website had a couple versions by different people dating back to 2009, which is a bit older than what I was expecting. Anyway, [here's the link for the one I'm using.](http://www.vim.org/scripts/script.php?script_id=2882) So far so good. That's enough development for today.
 

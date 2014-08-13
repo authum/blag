@@ -2,7 +2,7 @@
 layout:		post
 title: 		"In Amsterdam "
 date:   	2014-03-03  10:00:00
-categories:	Jekyll update
+categories:	"blog post"
 ---
 
 I've found myself here over the long weekend and finally have a lazy monday to chill on the couch with a friend and catch up.
